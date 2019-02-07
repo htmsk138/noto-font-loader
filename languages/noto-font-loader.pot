@@ -1,0 +1,62 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-05 08:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-noto-font-loader-admin.php:110
+#: admin/partials/noto-font-loader-admin-display.php:17
+msgid "Noto Font Settings"
+msgstr ""
+
+#: admin/class-noto-font-loader-admin.php:111
+msgid "Noto Font"
+msgstr ""
+
+#: admin/partials/noto-font-loader-admin-display.php:31
+msgid "Font style"
+msgstr ""
+
+#: admin/partials/noto-font-loader-admin-display.php:34
+msgid "Sans"
+msgstr ""
+
+#: admin/partials/noto-font-loader-admin-display.php:37
+msgid "Serif"
+msgstr ""
+
+#: admin/partials/noto-font-loader-admin-display.php:40
+msgid "Headers: Serif / Body: Sans"
+msgstr ""
+
+#. Name of the plugin
+msgid "Noto Font Loader"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin loads correct Noto font from Google Fonts depending on the "
+"site's locale."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://hitomiseki.com/noto-font-loader"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hitomi Seki"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hitomiseki.com"
+msgstr ""

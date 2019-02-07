@@ -1,0 +1,110 @@
+/**
+ * CSS for the option "Headers: Sans, Body: Serif".
+ */
+
+body,
+button,
+input,
+select,
+optgroup,
+textarea {
+    font-family: 'Noto Serif', serif !important;
+    font-display: swap;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Noto Sans', sans-serif !important;
+}
+
+[lang="ja"] body,
+[lang="ja"] button,
+[lang="ja"] input,
+[lang="ja"] select,
+[lang="ja"] optgroup,
+[lang="ja"] textarea {
+	font-family: 'Noto Serif', 'Noto Serif JP', serif !important;
+    letter-spacing: 1px;
+}
+
+[lang="ja"] h1,
+[lang="ja"] h2,
+[lang="ja"] h3,
+[lang="ja"] h4,
+[lang="ja"] h5,
+[lang="ja"] h6 {
+	font-family: 'Noto Sans', 'Noto Sans JP', sans-serif !important;
+}
+
+[lang="ko-KR"] body,
+[lang="ko-KR"] button,
+[lang="ko-KR"] input,
+[lang="ko-KR"] select,
+[lang="ko-KR"] optgroup,
+[lang="ko-KR"] textarea {
+	font-family: 'Noto Serif', 'Noto Serif KR', serif !important;
+    letter-spacing: 1px;
+}
+
+[lang="ko-KR"] h1,
+[lang="ko-KR"] h2,
+[lang="ko-KR"] h3,
+[lang="ko-KR"] h4,
+[lang="ko-KR"] h5,
+[lang="ko-KR"] h6 {
+	font-family: 'Noto Sans', 'Noto Sans KR', sans-serif !important;
+}
+
+[lang="zh-CN"] body,
+[lang="zh-CN"] button,
+[lang="zh-CN"] input,
+[lang="zh-CN"] select,
+[lang="zh-CN"] optgroup,
+[lang="zh-CN"] textarea {
+	font-family: 'Noto Serif', 'Noto Serif SC', serif !important;
+    letter-spacing: 1px;
+}
+
+[lang="zh-CN"] h1,
+[lang="zh-CN"] h2,
+[lang="zh-CN"] h3,
+[lang="zh-CN"] h4,
+[lang="zh-CN"] h5,
+[lang="zh-CN"] h6 {
+	font-family: 'Noto Sans', 'Noto Sans SC', sans-serif !important;
+}
+
+[lang="zh-HK"] body,
+[lang="zh-HK"] button,
+[lang="zh-HK"] input,
+[lang="zh-HK"] select,
+[lang="zh-HK"] optgroup,
+[lang="zh-HK"] textarea,
+[lang="zh-TW"] body,
+[lang="zh-TW"] button,
+[lang="zh-TW"] input,
+[lang="zh-TW"] select,
+[lang="zh-TW"] optgroup,
+[lang="zh-TW"] textarea {
+	font-family: 'Noto Serif', 'Noto Serif TC', serif !important;
+    letter-spacing: 1px;
+}
+
+[lang="zh-HK"] h1,
+[lang="zh-HK"] h2,
+[lang="zh-HK"] h3,
+[lang="zh-HK"] h4,
+[lang="zh-HK"] h5,
+[lang="zh-HK"] h6,
+[lang="zh-TW"] h1,
+[lang="zh-TW"] h2,
+[lang="zh-TW"] h3,
+[lang="zh-TW"] h4,
+[lang="zh-TW"] h5,
+[lang="zh-TW"] h6 {
+	font-family: 'Noto Sans', 'Noto Sans TC', sans-serif !important;
+}

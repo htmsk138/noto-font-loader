@@ -1,0 +1,95 @@
+/**
+ * CSS for Noto Sans.
+ */
+
+body,
+button,
+input,
+select,
+optgroup,
+textarea,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Noto Sans', sans-serif !important;
+    font-display: swap;
+}
+
+[lang="ja"] body,
+[lang="ja"] button,
+[lang="ja"] input,
+[lang="ja"] select,
+[lang="ja"] optgroup,
+[lang="ja"] textarea,
+[lang="ja"] h1,
+[lang="ja"] h2,
+[lang="ja"] h3,
+[lang="ja"] h4,
+[lang="ja"] h5,
+[lang="ja"] h6 {
+	font-family: 'Noto Sans', 'Noto Sans JP', sans-serif !important;
+    letter-spacing: 1px;
+}
+
+[lang="ko-KR"] body,
+[lang="ko-KR"] button,
+[lang="ko-KR"] input,
+[lang="ko-KR"] select,
+[lang="ko-KR"] optgroup,
+[lang="ko-KR"] textarea,
+[lang="ko-KR"] h1,
+[lang="ko-KR"] h2,
+[lang="ko-KR"] h3,
+[lang="ko-KR"] h4,
+[lang="ko-KR"] h5,
+[lang="ko-KR"] h6 {
+	font-family: 'Noto Sans', 'Noto Sans KR', sans-serif !important;
+    letter-spacing: 1px;
+}
+
+[lang="zh-CN"] body,
+[lang="zh-CN"] button,
+[lang="zh-CN"] input,
+[lang="zh-CN"] select,
+[lang="zh-CN"] optgroup,
+[lang="zh-CN"] textarea,
+[lang="zh-CN"] h1,
+[lang="zh-CN"] h2,
+[lang="zh-CN"] h3,
+[lang="zh-CN"] h4,
+[lang="zh-CN"] h5,
+[lang="zh-CN"] h6 {
+	font-family: 'Noto Sans', 'Noto Sans SC', sans-serif !important;
+    letter-spacing: 1px;
+}
+
+[lang="zh-HK"] body,
+[lang="zh-HK"] button,
+[lang="zh-HK"] input,
+[lang="zh-HK"] select,
+[lang="zh-HK"] optgroup,
+[lang="zh-HK"] textarea,
+[lang="zh-TW"] body,
+[lang="zh-TW"] button,
+[lang="zh-TW"] input,
+[lang="zh-TW"] select,
+[lang="zh-TW"] optgroup,
+[lang="zh-TW"] textarea,
+[lang="zh-HK"] h1,
+[lang="zh-HK"] h2,
+[lang="zh-HK"] h3,
+[lang="zh-HK"] h4,
+[lang="zh-HK"] h5,
+[lang="zh-HK"] h6,
+[lang="zh-TW"] h1,
+[lang="zh-TW"] h2,
+[lang="zh-TW"] h3,
+[lang="zh-TW"] h4,
+[lang="zh-TW"] h5,
+[lang="zh-TW"] h6 {
+	font-family: 'Noto Sans', 'Noto Sans TC', sans-serif !important;
+    letter-spacing: 1px;
+}
