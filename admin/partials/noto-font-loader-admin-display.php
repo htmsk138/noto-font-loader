@@ -47,7 +47,7 @@
                     </p>
                     <p>
                         <label for="nfl_letterform_header_sans">
-                            <input type="radio" name="nfl_letterform" id="nfl_letterform_header_sans" value="header-sans" <?php if ('header-sans' == $letterform) { ?> checked <?php } ?>><?php esc_html_e('Headers: Sans / Body: Serif'); ?>
+                            <input type="radio" name="nfl_letterform" id="nfl_letterform_header_sans" value="header-sans" <?php if ('header-sans' == $letterform) { ?> checked <?php } ?>><?php esc_html_e('Headers: Sans / Body: Serif', 'noto-font-loader'); ?>
                         </label>
                     </p>
                 </td>

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-05 08:03+0000\n"
+"POT-Creation-Date: 2019-02-08 02:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -14,12 +14,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/"
 
-#: admin/class-noto-font-loader-admin.php:110
+#: admin/class-noto-font-loader-admin.php:86
 #: admin/partials/noto-font-loader-admin-display.php:17
 msgid "Noto Font Settings"
 msgstr ""
 
-#: admin/class-noto-font-loader-admin.php:111
+#: admin/class-noto-font-loader-admin.php:87
 msgid "Noto Font"
 msgstr ""
 
@@ -27,16 +27,20 @@ msgstr ""
 msgid "Font style"
 msgstr ""
 
-#: admin/partials/noto-font-loader-admin-display.php:34
+#: admin/partials/noto-font-loader-admin-display.php:35
 msgid "Sans"
 msgstr ""
 
-#: admin/partials/noto-font-loader-admin-display.php:37
+#: admin/partials/noto-font-loader-admin-display.php:40
 msgid "Serif"
 msgstr ""
 
-#: admin/partials/noto-font-loader-admin-display.php:40
+#: admin/partials/noto-font-loader-admin-display.php:45
 msgid "Headers: Serif / Body: Sans"
+msgstr ""
+
+#: admin/partials/noto-font-loader-admin-display.php:50
+msgid "Headers: Sans / Body: Serif"
 msgstr ""
 
 #. Name of the plugin
@@ -45,12 +49,8 @@ msgstr ""
 
 #. Description of the plugin
 msgid ""
-"This plugin loads correct Noto font from Google Fonts depending on the "
-"site's locale."
-msgstr ""
-
-#. URI of the plugin
-msgid "https://hitomiseki.com/noto-font-loader"
+"Noto Font Loader loads the correct Noto font file from Google Fonts "
+"depending on the site’s locale and overrides theme's font settings."
 msgstr ""
 
 #. Author of the plugin

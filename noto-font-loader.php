@@ -15,8 +15,8 @@
  * @wordpress-plugin
  * Plugin Name:       Noto Font Loader
  * Plugin URI:        
- * Description:       This plugin loads correct Noto font from Google Fonts depending on the site's locale.
- * Version:           1.0.0
+ * Description:       Noto Font Loader loads the correct Noto font file from Google Fonts depending on the site’s locale and overrides theme's font settings.
+ * Version:           1.0.1
  * Author:            Hitomi Seki
  * Author URI:        https://hitomiseki.com
  * License:           GPL-2.0+
