@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Noto Font Loader\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-08 02:01+0000\n"
-"PO-Revision-Date: 2019-02-08 02:02+0000\n"
-"Last-Translator: admin <hitomi0528@gmail.com>\n"
+"PO-Revision-Date: 2019-02-15 02:43+0000\n"
+"Last-Translator: Hitomi Seki\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.2.0; wp-5.0.3"
 
-#: admin/class-noto-font-loader-admin.php:86
+#: admin/class-noto-font-loader-admin.php:86 
 #: admin/partials/noto-font-loader-admin-display.php:17
 msgid "Noto Font Settings"
 msgstr "Notoフォント設定"

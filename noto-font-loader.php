@@ -16,7 +16,7 @@
  * Plugin Name:       Noto Font Loader
  * Plugin URI:        
  * Description:       Noto Font Loader loads the correct Noto font file from Google Fonts depending on the site’s locale and overrides theme's font settings.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            Hitomi Seki
  * Author URI:        https://hitomiseki.com
  * License:           GPL-2.0+
@@ -34,7 +34,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Currently plugin version.
  * Start at version 1.0.0 and use SemVer - https://semver.org
  */
-define( 'NOTO_FONT_LOADER_VERSION', '1.0.0' );
+define( 'NOTO_FONT_LOADER_VERSION', '1.0.2' );
 
 /**
  * The code that runs during plugin activation.

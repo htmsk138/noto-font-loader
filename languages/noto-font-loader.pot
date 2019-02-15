@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-08 02:01+0000\n"
+"POT-Creation-Date: 2019-02-15 02:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/"
 
-#: admin/class-noto-font-loader-admin.php:86
+#: admin/class-noto-font-loader-admin.php:86 
 #: admin/partials/noto-font-loader-admin-display.php:17
 msgid "Noto Font Settings"
 msgstr ""
